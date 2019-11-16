@@ -1,6 +1,6 @@
 # Bottom Navy Bar
-Version: 5.2.2
-Package Link: https://pub.dev/packages/bottom_navy_bar
+- Version: 5.2.2
+- Package Link: https://pub.dev/packages/bottom_navy_bar
 
 ## Package Screenshots
 <div>
