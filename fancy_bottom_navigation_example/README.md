@@ -8,7 +8,6 @@
   <img src="https://raw.githubusercontent.com/bgoktugozdemir/Flutter-Packages/master/fancy_bottom_navigation_example/screenshots/2.png" width=150 />
   <img src="https://raw.githubusercontent.com/bgoktugozdemir/Flutter-Packages/master/fancy_bottom_navigation_example/screenshots/3.png" width=150 />
   <img src="https://raw.githubusercontent.com/bgoktugozdemir/Flutter-Packages/master/fancy_bottom_navigation_example/screenshots/4.png" width=150 />
-  <img src="https://raw.githubusercontent.com/bgoktugozdemir/Flutter-Packages/master/fancy_bottom_navigation_example/screenshots/5.png" width=150 />  
 </div>
 
 ## Informations
