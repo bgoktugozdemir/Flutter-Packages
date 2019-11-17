@@ -6,7 +6,6 @@
 <div>
   <img src="https://raw.githubusercontent.com/bgoktugozdemir/Flutter-Packages/master/expandable_bottom_bar_example/screenshots/1.png" width=150 />
   <img src="https://raw.githubusercontent.com/bgoktugozdemir/Flutter-Packages/master/expandable_bottom_bar_example/screenshots/2.png" width=150 />
-  <img src="https://raw.githubusercontent.com/rIIh/expandable-bottom-bar/master/showcase.gif˚" width=150 />
 </div>
 
 ## Informations
